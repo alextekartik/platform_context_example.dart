@@ -1,3 +1,5 @@
+# DEPRECATED.
+
 # Example for context_example.dart
 
 * [Web Demo](http://alextekartik.github.io/platform_context_example.dart/build/example/platform_context_browser_example.html)
